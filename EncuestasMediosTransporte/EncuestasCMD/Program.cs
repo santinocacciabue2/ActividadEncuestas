@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EncuestasLib;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,7 @@ namespace EncuestasCMD
         {
             Console.Clear();
 
-            Console.WriteLine("\t\tSecretaría de transporte de su magestad!");
+            Console.WriteLine("\t\tSecretaría de transporte de tamarindo");
 
             Console.WriteLine("\tEncuesta sobre el uso de medios de transporte urbano.\n");
 
